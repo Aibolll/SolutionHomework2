@@ -1,11 +1,5 @@
 import java.util.*;
 
-/**
- * MUDController:
- * A simple controller that reads player input and orchestrates
- * basic commands like look around, move, pick up items,
- * check inventory, show help, etc.
- */
 public class MUDController {
 
     private final Player player;
