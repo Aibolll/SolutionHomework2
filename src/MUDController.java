@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class MUDController {
-
     private final Player player;
     private boolean running;
     private final Scanner scanner;
